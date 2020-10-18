@@ -1,0 +1,1 @@
+Thit is an example file to be used for hash key generation in Task 3. We'll use SHA256 twice to generate hash keys with the second hash done on this file after a bit has been flipped.
