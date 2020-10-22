@@ -3,3 +3,10 @@ SHA256(example_file.txt)= 220a6b8b954e2154743c7171658e2ac7a10d2c8c77823d715e7087
  
 Post bit flip
 SHA256(example_file.txt)= 727fb9cf74e6633ae222bdb0508478153fcb3607a25422d5566f7ac2aadd5ce6
+ 
+ 
+Pre bit flip
+MD5(example_file.txt)= 4d9de24b2617e3903c72b44e65e733bf
+ 
+Post bit flip
+MD5(example_file.txt)= 9fbc69af901b178f9f3af22b5f45f781

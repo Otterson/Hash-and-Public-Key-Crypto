@@ -1,0 +1,21 @@
+Key: 0123456789
+HMAC-MD5(example_file.txt)= 776c18f3f6d419531d352b8aa6885032
+ 
+Key: randomkeylength17
+HMAC-MD5(example_file.txt)= f5f2176902e4bdcf18f3a819eb439cc1
+ 
+Key: abcdefghijklmnopqrstuvwxyz
+HMAC-MD5(example_file.txt)= ab65f2d6dfc5915b7c89852ac46c50e3
+ 
+Key: 0123456789
+HMAC-SHA256(example_file.txt)= ff58c2640ab576e796b20e6e0452d1949983bffc75e6bc6901bcc2f1aebe454e
+ 
+Key: abcdefghijklmnopqrstuvwxyz
+HMAC-SHA256(example_file.txt)= c13e90b2ae888d60693aef3b06ef188f0ecf3c89a6ab09c34ff3af3404da99cc
+ 
+Key: 0123456789
+HMAC-SHA1(example_file.txt)= 31ea578a4f87e7f6846644c433d01bd7d703ad3f
+ 
+Key: abcdefghijklmnopqrstuvwxyz
+HMAC-SHA1(example_file.txt)= 384c75860b3f46cb8e94d9ccd34a9e4bcdc0c480
+ 

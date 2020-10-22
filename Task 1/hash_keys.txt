@@ -1,0 +1,3 @@
+MD5(example_file.txt)= d376f5949ffef67ab1cc9cfd851c01ed
+SHA1(example_file.txt)= aaf0aedc239bf237737b8fc47cd5711f77cebc79
+SHA256(example_file.txt)= 45483c99e56bd28a356d345e1a0599ac64c62a33c05c55958c397b76f0860c94
